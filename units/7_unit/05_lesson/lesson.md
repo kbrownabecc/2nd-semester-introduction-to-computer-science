@@ -5,12 +5,13 @@
 Students will be able to...
 
 * Engage in **class design** before beginning coding
-* Apply what was learned with respect to **classes**, **methods**, and** inheritance** to create an implementation of Pokemon
+* Apply what was learned with respect to **classes**, **methods**, and **inheritance** to create an implementation of Pokemon
 
 ## Materials/Preparation
 
+* [7.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx)
 * [Project Spec - Pokemon][] ([printable project Spec][]) ([editable project spec][])
-* [Project Spec - Mailing List][] ([printable alternate project Spec][]) ([editable alternate project spec][])
+* [Project Spec - Mailing List][] ([printable projecta Spec][]) ([editable projecta spec][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * Read through the project spec so that you are familiar with the requirements and can assist students
 * Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem][]
@@ -97,10 +98,10 @@ Students will be able to...
 [Lesson 7.05: Pokemon Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-05-pokemon)
 
 [Project Spec - Pokemon]:project.md
-[Project Spec - Mailing List]:alternate_project.md
+[Project Spec - Mailing List]:projecta.md
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.pdf
 [editable project spec]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.docx
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
-[printable alternate project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/alternate_project.pdf
-[editable alternate project spec]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/alternate_project.docx
+[printable projecta Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.pdf
+[editable projecta spec]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.docx
